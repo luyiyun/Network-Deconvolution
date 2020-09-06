@@ -11,7 +11,7 @@ This package is the R implementation of matlab code of Network Deconvolution alg
 You can install the released version of NetworkDeconvolution with:
 
 ``` r
-devtools::install_github("https://github.com/luyiyun/NetworkDeconvolution")
+devtools::install_github("https://github.com/luyiyun/Network-Deconvolution")
 ```
 
 ## Example
